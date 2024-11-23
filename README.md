@@ -4,4 +4,4 @@
 ## Soal 2
 ![Hasil 2](image/hasil2.PNG "Hasil 2")
 ## Soal 3 
-![Hasil 3](images/hasil3.png "hasil 3")
+![Hasil 3](image/hasil3.png "hasil 3")
