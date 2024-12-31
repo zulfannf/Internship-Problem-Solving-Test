@@ -11,11 +11,14 @@ func main(){
 		return
 	}
 
-	deret := make([]int, nilai)
-	hasil := 1
-	for i := 0; i < nilai; i++ {
-		hasil += i
-		deret[i] = hasil
+var result[]int 
+
+for i := 0; i < nilai ; i++ {
+	// equation = n * (n+1)/2 +1
+	current := i * (i+1)/2+1 
+	result = append(result, current)
 	}
-	fmt.Println("Output: ", deret)
+	fmt.Println(result)
+
 }
+
